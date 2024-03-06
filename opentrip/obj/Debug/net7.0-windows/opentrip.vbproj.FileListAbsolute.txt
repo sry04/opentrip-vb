@@ -1,0 +1,17 @@
+D:\Kuliah\Programing Languange\opentrip\opentrip\bin\Debug\net7.0-windows\opentrip.exe
+D:\Kuliah\Programing Languange\opentrip\opentrip\bin\Debug\net7.0-windows\opentrip.deps.json
+D:\Kuliah\Programing Languange\opentrip\opentrip\bin\Debug\net7.0-windows\opentrip.runtimeconfig.json
+D:\Kuliah\Programing Languange\opentrip\opentrip\bin\Debug\net7.0-windows\opentrip.dll
+D:\Kuliah\Programing Languange\opentrip\opentrip\bin\Debug\net7.0-windows\opentrip.pdb
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.Form1.resources
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.vbproj.GenerateResource.cache
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.AssemblyInfoInputs.cache
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.AssemblyInfo.vb
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.dll
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\refint\opentrip.dll
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.pdb
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.genruntimeconfig.cache
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\ref\opentrip.dll
+D:\Kuliah\Programing Languange\opentrip\opentrip\obj\Debug\net7.0-windows\opentrip.Resources.resources
